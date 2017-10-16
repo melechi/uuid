@@ -1,5 +1,7 @@
 # ramsey/uuid
 
+_NOTICE: I haven't actually changed anything!_
+
 _NOTICE: Formerly known as `rhumsaa/uuid`, The package and namespace names have changed to `ramsey/uuid` and `Ramsey\Uuid`, respectively._
 
 [![Source Code][badge-source]][source]
